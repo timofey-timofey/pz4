@@ -30,7 +30,7 @@ num = list(filter(lambda x: x % 2 == 0, numbers))
 print(num)
 '''
 '''
-strings = ["apple", "banana", "cherry", "date"]
+strings = ["APPLE", "BANANA", "CHERRY", "DATE"]
 str = list(map(lambda s: s.lower(), strings))
 print(str)
 '''
