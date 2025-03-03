@@ -1,8 +1,8 @@
 '''
 square = lambda x: x ** 2
-print(square(3))  # 9
-print(square(4))  # 16
-print(square(5))  # 25
+print(square(3))
+print(square(4)) 
+print(square(5)) 
 '''
 '''
 numbers = [2, 4, 6, 8, 10]
