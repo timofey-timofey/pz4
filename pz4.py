@@ -7,12 +7,12 @@ print(square(5))
 '''
 numbers = [2, 4, 6, 8, 10]
 num = list(map(lambda x: x / 2, numbers))
-print(num)  # [1.0, 2.0, 3.0, 4.0, 5.0]
+print(num) 
 '''
 '''
 numbers = [5, 10, 15, 20, 25]
 num = list(filter(lambda x: x < 20, numbers))
-print(num)  # [5, 10, 15]
+print(num) 
 '''
 '''
 uppercase = lambda s: s.upper()
